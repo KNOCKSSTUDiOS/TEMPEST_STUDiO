@@ -1,0 +1,10 @@
+C:\Users\KNOCKSSTUDiOS\TEMPEST_STUDiO\target\release\deps\owned_ttf_parser-2a1c09dd25baed6b.d: C:\Users\KNOCKSSTUDiOS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\owned_ttf_parser-0.25.1\src\lib.rs C:\Users\KNOCKSSTUDiOS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\owned_ttf_parser-0.25.1\src\convert.rs C:\Users\KNOCKSSTUDiOS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\owned_ttf_parser-0.25.1\src\owned.rs C:\Users\KNOCKSSTUDiOS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\owned_ttf_parser-0.25.1\src\preparse.rs
+
+C:\Users\KNOCKSSTUDiOS\TEMPEST_STUDiO\target\release\deps\libowned_ttf_parser-2a1c09dd25baed6b.rlib: C:\Users\KNOCKSSTUDiOS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\owned_ttf_parser-0.25.1\src\lib.rs C:\Users\KNOCKSSTUDiOS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\owned_ttf_parser-0.25.1\src\convert.rs C:\Users\KNOCKSSTUDiOS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\owned_ttf_parser-0.25.1\src\owned.rs C:\Users\KNOCKSSTUDiOS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\owned_ttf_parser-0.25.1\src\preparse.rs
+
+C:\Users\KNOCKSSTUDiOS\TEMPEST_STUDiO\target\release\deps\libowned_ttf_parser-2a1c09dd25baed6b.rmeta: C:\Users\KNOCKSSTUDiOS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\owned_ttf_parser-0.25.1\src\lib.rs C:\Users\KNOCKSSTUDiOS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\owned_ttf_parser-0.25.1\src\convert.rs C:\Users\KNOCKSSTUDiOS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\owned_ttf_parser-0.25.1\src\owned.rs C:\Users\KNOCKSSTUDiOS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\owned_ttf_parser-0.25.1\src\preparse.rs
+
+C:\Users\KNOCKSSTUDiOS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\owned_ttf_parser-0.25.1\src\lib.rs:
+C:\Users\KNOCKSSTUDiOS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\owned_ttf_parser-0.25.1\src\convert.rs:
+C:\Users\KNOCKSSTUDiOS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\owned_ttf_parser-0.25.1\src\owned.rs:
+C:\Users\KNOCKSSTUDiOS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\owned_ttf_parser-0.25.1\src\preparse.rs:

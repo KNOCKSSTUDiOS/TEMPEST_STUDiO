@@ -1,0 +1,15 @@
+[package]
+name = "tempest_studio"
+version = "6.5.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.26.2"
+
+[package.metadata.packager]
+product-name = "TEMPEST STUDiO"
+identifier = "studio.knocks.tempest"
+publisher = "KNOCKSSTUDiOS"
+category = "DeveloperTool"
+formats = ["nsis", "app", "dmg", "deb"]
+out-dir = "dist"
